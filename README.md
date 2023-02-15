@@ -18,7 +18,7 @@ tg群：https://t.me/fangkehou
 
 #### 方式1（极容易被ban）：
 
-点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/fangkehou-team/v2hk-refresh)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/fangkehou-team/v2hk-refresh)
+点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/bugbounted/v2hk-refresh)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/fangkehou-team/v2hk-refresh)
 
 #### 方式2（被ban概率相对较低，且可以自行定义使用何种协议）：
 
